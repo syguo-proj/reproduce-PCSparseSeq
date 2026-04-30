@@ -1,4 +1,4 @@
-# Posterior Concentration in Sparse Sequence Models
+# Posterior Concentration in Sparse Sequence Models: Reproduction and Study
 
 This project reproduces the main posterior concentration results in Castillo & van der Vaart (2012), *Needles and Straw in a Haystack: Posterior Concentration for Possibly Sparse Sequences*.
 
